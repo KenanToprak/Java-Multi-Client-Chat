@@ -1,7 +1,15 @@
 ### IntelliJ IDEA ###
 out/
+out-test/
 !**/src/main/**/out/
 !**/src/test/**/out/
+
+### Build & Artifacts ###
+*.class
+*.jar
+*.log
+build/
+target/
 
 ### Eclipse ###
 .apt_generated
